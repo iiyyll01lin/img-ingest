@@ -1,5 +1,9 @@
 # PDF Image Ingestion
 
+## Version
+
+This project is still in development, see the latest branch: **202504-rc1**
+
 ## Summary
 
 Image to Pre-Embedding Dataset by generation & validation pre-steps.
